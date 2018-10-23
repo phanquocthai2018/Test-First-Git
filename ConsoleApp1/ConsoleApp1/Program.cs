@@ -59,7 +59,7 @@ namespace TestDateTime
             }
         }
 
-        static void Test_One(string[] args)
+        static void Test_Ten(string[] args)
         {
             DateTime dateTime1 = DateTime.Now.ToLocalTime();
             Console.WriteLine(dateTime1);
