@@ -34,7 +34,7 @@ namespace TestDateTime
         }
 
 
-        static void Test (string[] args)
+        static void Test_Two (string[] args)
         {
             DateTime dateTime1 = DateTime.Now.ToLocalTime();
             Console.WriteLine(dateTime1);
